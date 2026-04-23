@@ -1,0 +1,6 @@
+{
+  "name": "EnVie",
+  "description": "A refined Vietnamese / English language training app featuring flashcards, spaced repetition, and real-time pronunciation scoring with Gemini AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
